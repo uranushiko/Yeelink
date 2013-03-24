@@ -1,1 +1,6 @@
-This is a Projrct.
+This is a Project used for collect data from sensors and push then to Yeelink.net.
+The sensor installed in Arduino , and connnect to a Raspberry Pi by using USB cable.
+Now it can push humidity,temperature and cam to yeelink.
+
+DEMO on: http://www.yeelink.net/devices/2269#
+email: admin@zhouheng.net
